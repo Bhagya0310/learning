@@ -1,4 +1,3 @@
-
 import { FaEnvelope, FaPhone, FaGlobe, FaMapMarkerAlt, FaBuilding, FaUserCircle } from 'react-icons/fa';
 import Link from 'next/link';
 
