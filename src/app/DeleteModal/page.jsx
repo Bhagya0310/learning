@@ -1,6 +1,5 @@
 'use client'
 import React, { useState } from 'react';
-
 const DeleteModal = ({ isOpen, onClose, onDelete }) => {
     if (!isOpen) return null;
 
