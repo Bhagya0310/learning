@@ -1,4 +1,3 @@
-
 import { FaEnvelope, FaPhone, FaGlobe, FaMapMarkerAlt, FaBuilding, FaUserCircle } from 'react-icons/fa';
 export default async function PostDetails({ params }) {
     const { 'post-id': postId } = params;

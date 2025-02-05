@@ -1,7 +1,6 @@
 'use client'
 
 import React from 'react';
-
 const Calendar = () => {
   return (
     <div className="max-w-md mx-auto p-4">

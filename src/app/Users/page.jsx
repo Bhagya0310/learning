@@ -78,8 +78,7 @@ const Users = () => {
                             <p className="text-gray-600">{user.company.bs}</p>
                         </div>
                     </div>
-
-                   <div className="mt-2">
+                  <div className="mt-2">
                     <h2 className="text-sm font-semibold text-gray-500">Quick Stats</h2>
                     <div className="flex justify-between">
                         <p className="text-sm">

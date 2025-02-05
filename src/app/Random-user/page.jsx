@@ -23,7 +23,6 @@ export default function RandomUser() {
   };
 
   if (!user) return <p>Loading...</p>;
-
   return (
     <div className="w-full h-screen bg-purple-400 flex flex-col justify-center items-center">
       <div className="bg-white shadow-lg rounded-lg p-4 border border-gray-500 w-1/2 flex flex-col justify-center items-center">
